@@ -1,0 +1,14 @@
+C:\Users\jagadish.pasumarthy\source\repos\IOC\bin\Debug\netcoreapp3.1\IOC.exe
+C:\Users\jagadish.pasumarthy\source\repos\IOC\bin\Debug\netcoreapp3.1\IOC.deps.json
+C:\Users\jagadish.pasumarthy\source\repos\IOC\bin\Debug\netcoreapp3.1\IOC.runtimeconfig.json
+C:\Users\jagadish.pasumarthy\source\repos\IOC\bin\Debug\netcoreapp3.1\IOC.runtimeconfig.dev.json
+C:\Users\jagadish.pasumarthy\source\repos\IOC\bin\Debug\netcoreapp3.1\IOC.dll
+C:\Users\jagadish.pasumarthy\source\repos\IOC\bin\Debug\netcoreapp3.1\IOC.pdb
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.AssemblyReference.cache
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfoInputs.cache
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfo.cs
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.CoreCompileInputs.cache
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.dll
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.pdb
+C:\Users\jagadish.pasumarthy\source\repos\IOC\obj\Debug\netcoreapp3.1\IOC.genruntimeconfig.cache
